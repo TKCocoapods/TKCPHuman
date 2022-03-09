@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TKCPHuman_Example' do
+  pod 'TKCPHuman', :path => '../'
+
+  target 'TKCPHuman_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
