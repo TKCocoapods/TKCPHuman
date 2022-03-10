@@ -1,0 +1,16 @@
+PODS:
+  - TKCPHuman (0.1.0)
+
+DEPENDENCIES:
+  - TKCPHuman (from `../`)
+
+EXTERNAL SOURCES:
+  TKCPHuman:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TKCPHuman: aeccc2b370cec1e3ed26556e6a6b7c210fa20803
+
+PODFILE CHECKSUM: d3ec0b72691dc0f645064a2712fb6404a412824b
+
+COCOAPODS: 1.11.2
